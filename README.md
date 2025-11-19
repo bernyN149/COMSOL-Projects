@@ -1,6 +1,6 @@
 # COMSOL Projects
 
-This repository contains my simulation projects created with COMSOL Multiphysics®. It serves as a version-controlled archive for models, scripts, results, and related documentation.
+This repository contains my simulation projects created with COMSOL Multiphysics® 6.3. It serves as a version-controlled archive for models, scripts, results, and related documentation.
 
 ## Organization
 
